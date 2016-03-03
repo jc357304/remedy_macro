@@ -1,8 +1,10 @@
 'code from macro generator in Remedy'
 Hub_Test
-Set-schema: TWC:Trouble Managementatgremedy.twcable.com
+Set-schema: TWC:Trouble Management
+atgremedy.twcable.com
 Form-open: 
-Submit-display: TWC:Trouble Managementatgremedy.twcable.com|
+Submit-display: TWC:Trouble Management
+atgremedy.twcable.com|
 899000232=No "is this inicient an outage?"
 899000231=KO9 "node+"
 700100111=Low "severity"
